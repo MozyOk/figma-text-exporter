@@ -1,0 +1,10 @@
+{
+  "name": "exportTextJson",
+  "id": "1078937373544540642",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
